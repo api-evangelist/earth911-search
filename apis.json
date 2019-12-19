@@ -1,0 +1,67 @@
+{
+    "name": "Earth911 Search",
+    "description": "Commenting Policy:    Your comments are encouraged on our page. Please be respectful - any comments using hate-speech or profanity will be deleted. Users who repeatedly spam the page will be banned. Also, solicitations of any kind will be removed as we...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1407-earth911-search.jpg",
+    "tags": [
+        "api provider",
+        "energy",
+        "games",
+        "have api",
+        "recycling"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/earth911-search\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Earth911 Search",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1407-earth911-search.jpg",
+            "humanURL": "http:\/\/api.earth911.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/earth911-search-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/earth911-search-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "http:\/\/github.com\/earth911\/"
+        },
+        {
+            "type": "News",
+            "url": "http:\/\/earth911.com\/news\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/api.earth911.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/earth911"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@earth911.com"
+        },
+        {
+            "type": "Email",
+            "url": "media@earth911.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Earth911"
+        }
+    ]
+}
